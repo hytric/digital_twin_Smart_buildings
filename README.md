@@ -14,6 +14,8 @@ This project predicts electricity usage for the next 6 hours using an LSTM model
   - Example: `Panther_education_Teofila` - MAE=17.768, RMSE=24.849, MAPE=11.34%.
   - Warnings indicate prediction threshold violations.
 
+  ![alt text](image.png)
+
 ## Usage
 
 ### 1. Data Preparation
