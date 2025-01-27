@@ -353,5 +353,3 @@ for res in results:
     
     print(f"\n=== [{bld_name}] 결과 요약 ===")
     print(f"MAE={mae:.3f}, RMSE={rmse:.3f}, MAPE={mape:.2f}%, Warnings={n_warn}")
-
-# 필요 시 모델 파라미터, 예측값 등을 후속 분석이나 시각화에 활용 가능
