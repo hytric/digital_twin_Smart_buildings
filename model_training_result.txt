@@ -1,0 +1,44 @@
+=== [Panther_education_Teofila] 결과 요약 ===
+MAE=17.768, RMSE=24.849, MAPE=11.34%, Warnings=309
+
+=== [Panther_education_Jerome] 결과 요약 ===
+MAE=270.906, RMSE=273.332, MAPE=54.88%, Warnings=2601
+
+=== [Panther_education_Misty] 결과 요약 ===
+MAE=2.525, RMSE=3.938, MAPE=8.88%, Warnings=589
+
+=== [Panther_education_Tina] 결과 요약 ===
+MAE=1.370, RMSE=1.909, MAPE=24.58%, Warnings=518
+
+=== [Panther_education_Janis] 결과 요약 ===
+MAE=4.029, RMSE=5.897, MAPE=15.60%, Warnings=685
+
+=== [Panther_education_Quintin] 결과 요약 ===
+MAE=43.612, RMSE=58.142, MAPE=15.38%, Warnings=407
+
+=== [Panther_education_Violet] 결과 요약 ===
+MAE=6.064, RMSE=8.197, MAPE=4.30%, Warnings=167
+
+=== [Panther_education_Edna] 결과 요약 ===
+MAE=13.791, RMSE=18.489, MAPE=12.51%, Warnings=504
+
+=== [Panther_education_Sophia] 결과 요약 ===
+MAE=7.473, RMSE=8.954, MAPE=4.84%, Warnings=41
+
+=== [Panther_education_Hugh] 결과 요약 ===
+MAE=478.632, RMSE=479.610, MAPE=76.91%, Warnings=2601
+
+=== [Panther_education_Annetta] 결과 요약 ===
+MAE=14.790, RMSE=18.951, MAPE=14.62%, Warnings=444
+
+=== [Panther_education_Ivan] 결과 요약 ===
+MAE=15.311, RMSE=19.869, MAPE=11.69%, Warnings=421
+
+=== [Panther_education_Alecia] 결과 요약 ===
+MAE=32.914, RMSE=41.768, MAPE=19.35%, Warnings=662
+
+=== [Panther_education_Rosalie] 결과 요약 ===
+MAE=4.869, RMSE=6.551, MAPE=7.94%, Warnings=485
+
+=== [Panther_education_Jonathan] 결과 요약 ===
+MAE=0.840, RMSE=1.149, MAPE=28486562.50%, Warnings=828

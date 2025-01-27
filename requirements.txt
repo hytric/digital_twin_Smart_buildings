@@ -1,0 +1,23 @@
+# 데이터 분석
+pandas==1.5.3
+numpy==1.24.2
+
+# 시각화
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.15.0
+
+# 모델링
+scikit-learn==1.2.2
+torch==2.0.1
+torchvision==0.15.2
+
+# 시뮬레이션
+simpy==4.0.1
+
+# 웹 대시보드
+streamlit==1.26.0
+
+# TensorFlow for macOS
+tensorflow-macos
+tensorflow-metal
